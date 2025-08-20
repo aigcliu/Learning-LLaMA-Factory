@@ -1,0 +1,14 @@
+### model
+model_name_or_path: Qwen/Qwen1.5-0.5B-Chat
+adapter_name_or_path: saves/day1/test_small_model
+trust_remote_code: true
+
+### template
+template: qwen
+
+### generation
+max_new_tokens: 512
+do_sample: true
+temperature: 0.7
+top_p: 0.9
+repetition_penalty: 1.1

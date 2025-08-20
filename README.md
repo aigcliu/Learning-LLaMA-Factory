@@ -1,5 +1,9 @@
 ## 7 天速通 + 动手实战路线图（总览）
 
+> **注意：本文档内容均由 [Cursor](https://cursor.sh/) AI 代码编辑器生成，用于 LLaMA-Factory 学习指导。**
+
+### 目录
+
 ### 目录
 - [总览](#7-天速通--动手实战路线图总览)
 - [学习目标与最终产出（7 天）](#学习目标与最终产出-7-天)
@@ -445,6 +449,19 @@ python -c "from transformers import AutoTokenizer as T;print(T.from_pretrained('
 - `notes/templates.md`：各模板渲染差异词典（角色标记/停止符/思维标签/工具调用）
 - `notes/training_recipes.md`：SFT/DPO/RM/PPO/KTO/PT 配方与经验
 - `notes/infer_backends.md`：HF/vLLM/SGLang 对比结论与推荐设置
+
+---
+
+## 📝 文档说明
+
+**本文档由 [Cursor](https://cursor.sh/) AI 代码编辑器生成**
+
+- **生成目的**：为 LLaMA-Factory 学习者提供系统化的 7 天学习路线图
+- **内容特点**：结合理论学习和动手实践，包含详细的代码示例和操作步骤
+- **适用对象**：希望深入理解 LLaMA-Factory 架构和具备二次开发能力的开发者
+- **使用方法**：按照 Day 1-7 的顺序逐步学习，每个阶段都有明确的学习目标和验收标准
+
+> 💡 **提示**：建议在学习过程中结合官方文档和源码阅读，以获得更全面的理解。
 
 
 
