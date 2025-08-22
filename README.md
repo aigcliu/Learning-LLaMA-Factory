@@ -47,9 +47,9 @@
 
 ## 全周总追踪清单（高层）
 
-- [ ] 读完并标注关键处：`README_zh.md`、`examples/README_zh.md`
-- [ ] 跑通一次 LoRA SFT（10~50 步快速验证）
-- [ ] 跑通一次推理/导出/合并
+- [x] 读完并标注关键处：`README_zh.md`、`examples/README_zh.md`
+- [x] 跑通一次 LoRA SFT（10~50 步快速验证）
+- [x] 跑通一次推理/导出/合并
 - [ ] 做 3 次短训（SFT/DPO/RM 各一次）
 - [ ] HF 与 vLLM 推理对比（吞吐/延迟/显存）
 - [ ] 新增一个模板或模型映射，并可正常 chat
